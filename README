@@ -1,1 +1,10 @@
 Project results for Advanced Machine Learining course. Innopolis UNiversity 2019.
+
+1.   amino_dgl_build_graph.ipynb - pipeline for data preprocessing
+1.1. amino_acid_prop.csv - service file for data preprocessing
+1.2. graphs_amino.pickle - results of data preprocessing - list of graphs saved in DGL structure
+1.3  lables_amino.pickle - results of data preprocessing - list of labels
+
+2.   GIN - The first model based on Xu K., How Powerful are Graph Neural Networks? (https://arxiv.org/abs/1810.00826)
+
+3. Hierarchical - The second model based on Rex Y., Hierarchical Graph Representation Learning with Differentiable Pooling (https://arxiv.org/abs/1806.08804)
